@@ -1,0 +1,45 @@
+Body {
+    Background-Color : Black;
+}
+
+#School-Name {
+    Color : White;
+    font-family: cursive;
+}
+
+#Go {
+    Background-Color : Transparent;
+    Border-Color : Red;
+    Border-Bottom-Left-Radius: 12.5px;
+    Border-Bottom-Right-Radius: 12.5px;
+    Color : Yellow;
+    Width:190px;
+}
+
+#Name {
+    Width :  200px;
+    Border-Top-Left-Radius: 15px;
+    Border-Top-Right-Radius: 15px;
+    Background-Color : Transparent;
+    Border-Color : Red;
+    Color : Yellow
+}
+
+::placeholder{
+    Color : Yellow;
+    text-align: center;
+}
+
+#Info {
+    text-align: Center;
+    margin-Left: 1000px;
+}
+
+.Text {
+    Color : Green;
+    font-family: cursive;
+}
+
+#School-Image {
+    Width: 500px;
+}

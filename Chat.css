@@ -1,4 +1,55 @@
 Body {
     background-color: black;
+    color: orange;
+    font-family:cursive;
+    font-weight: 250px;
 }
 
+#word {
+    Width :100%;
+    color: White;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: blue;
+    border: none;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+    
+    #input{
+         background-color: yellow;
+         Height : 12.5%;
+         border-radius: 25px;
+        }
+
+::placeholder{
+    Width :100%;
+    color: White;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: blue;
+    border: none;
+    text-align: center;
+}
+
+#Send {
+    Width :20%;
+    color: White;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: red;
+    border: none;
+}
+
+#logout{
+    float : right;
+}
+
+#Chatting{
+   Height: 56%;
+   margin-top: 25px;
+   margin-bottom: 25px;
+   width: 100%;
+   border-radius: 25px;
+   background:tan;
+}

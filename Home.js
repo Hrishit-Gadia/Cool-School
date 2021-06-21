@@ -41,3 +41,9 @@ function go(name) {
     window.location = "Chat.html";
     localStorage.setItem("RoomName", name);
 }
+
+function out() {
+    localStorage.removeItem("RoomName");
+    localStorage.removeItem("Name");
+    window.location = "index.html";
+}
